@@ -1,0 +1,14 @@
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# IDE files
+.vs/
+.vscode/
+
+# Credentials and secrets
+*.pem
+*.key
+*.pfx
+.env
+.env.*
